@@ -1,3 +1,4 @@
 # AnimalV2
-In this version of code suoer class Animal implements interface Action.
 ULM diagram in attachment.
+In this version of code super class Animal implements interface Action.
+
